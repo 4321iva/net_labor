@@ -1,0 +1,15 @@
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.AssemblyInfoInputs.cache
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.AssemblyInfo.cs
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.csproj.CoreCompileInputs.cache
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.sourcelink.json
+D:\visual studio\net_lab\lab_2.8\lab_2.8\bin\Debug\net8.0\lab_2.8.exe
+D:\visual studio\net_lab\lab_2.8\lab_2.8\bin\Debug\net8.0\lab_2.8.deps.json
+D:\visual studio\net_lab\lab_2.8\lab_2.8\bin\Debug\net8.0\lab_2.8.runtimeconfig.json
+D:\visual studio\net_lab\lab_2.8\lab_2.8\bin\Debug\net8.0\lab_2.8.dll
+D:\visual studio\net_lab\lab_2.8\lab_2.8\bin\Debug\net8.0\lab_2.8.pdb
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.dll
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\refint\lab_2.8.dll
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.pdb
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\lab_2.8.genruntimeconfig.cache
+D:\visual studio\net_lab\lab_2.8\lab_2.8\obj\Debug\net8.0\ref\lab_2.8.dll
