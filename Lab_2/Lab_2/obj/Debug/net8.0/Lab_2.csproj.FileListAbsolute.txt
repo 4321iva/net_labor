@@ -1,0 +1,15 @@
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfoInputs.cache
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfo.cs
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.csproj.CoreCompileInputs.cache
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.sourcelink.json
+D:\visual studio\net_lab\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.exe
+D:\visual studio\net_lab\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.deps.json
+D:\visual studio\net_lab\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.runtimeconfig.json
+D:\visual studio\net_lab\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.dll
+D:\visual studio\net_lab\Lab_2\Lab_2\bin\Debug\net8.0\Lab_2.pdb
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.dll
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\refint\Lab_2.dll
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.pdb
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.genruntimeconfig.cache
+D:\visual studio\net_lab\Lab_2\Lab_2\obj\Debug\net8.0\ref\Lab_2.dll
